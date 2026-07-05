@@ -1,0 +1,6 @@
+{
+  "name": "Hindi Document OCR & Excel Extractor",
+  "description": "Upload document images, define custom Hindi text extraction references, batch-process with AI OCR, edit results, and export directly to Excel (with UTF-8 Hindi compatibility).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
